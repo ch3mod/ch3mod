@@ -1,4 +1,4 @@
-### Hi there 👋
+### NOTHING GRAND, MOTHING FUN👋
 
 <!--
 **ch3mod/ch3mod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
