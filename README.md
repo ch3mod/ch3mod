@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ch3mod/ch3mod/main/coding-banner.jpg" alt="Coding Banner">
+  <img src="LINK_BANNER_FOTO_KAMU" alt="Firmana - Fullstack Developer Banner">
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Firmana+(ch3mod)+%F0%9F%91%8B;Fullstack+Developer;Laravel+%26+Java+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hey%2C+I'm+Firmana+(ch3mod)+👋;Fullstack+Developer;Laravel+%26+Java+Enthusiast;Founder+of+chipnetsID&font=Fira+Code&size=26&center=true&vCenter=true&width=460&height=50&duration=4000&pause=1000&color=00BFFF" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   Saya seorang <strong>Mahasiswa</strong> dan <strong>Fullstack Developer</strong> dengan hasrat untuk membangun solusi digital yang nyata.
