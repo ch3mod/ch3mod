@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_BANNER_FOTO_KAMU" alt="Firmana - Fullstack Developer Banner">
+  <img src="ch3mod/me.jpg" alt="Firmana - Fullstack Developer Banner">
 </p>
 
 <div align="center">
