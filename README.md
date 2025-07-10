@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_RAW_DARI_FILE_ME.JPG_KAMU" alt="Firmana" width="400px" />
+  <img src="me.jpg" alt="Firmana" width="400px" />
 </p>
 
 <div align="center">
