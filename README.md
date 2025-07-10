@@ -1,7 +1,7 @@
 <p align="center">
   <img src="me.jpg" alt="Firmana - Fullstack Developer Banner" width="400px>
 </p>
-
+<br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Firmana+(ch3mod)+%F0%9F%91%8B;Fullstack+Developer;Laravel+%26+Java+Enthusiast" alt="Typing SVG" /></a>
 </div>
