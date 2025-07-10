@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me.jpg" alt="Firmana - Fullstack Developer Banner" width="1000px>
+  <img src="me.jpg" alt="Firmana - Fullstack Developer Banner" width="400px>
 </p>
 
 <div align="center">
