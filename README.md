@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516116216624-53e697303d9e?q=80&w=1470&auto=format&fit=crop" alt="Coding Setup Banner">
+  <img src="https://raw.githubusercontent.com/ch3mod/ch3mod/main/coding-banner.jpg" alt="Coding Banner">
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Firmana+(ch3mod)+👋;Fullstack+Developer;Laravel+%26+Java+Enthusiast;Founder+of+chipnetsID" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hey%2C+I'm+Firmana+(ch3mod)+👋;Fullstack+Developer;Laravel+%26+Java+Enthusiast;Founder+of+chipnetsID&font=Fira+Code&size=26&center=true&vCenter=true&width=460&height=50&duration=4000&pause=1000&color=00BFFF" alt="Typing SVG" />
   </a>
 </div>
 
